@@ -1,0 +1,12 @@
+.header {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;
+}
+.container {
+    margin-top: 80px;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
